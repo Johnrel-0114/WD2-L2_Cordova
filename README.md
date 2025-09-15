@@ -1,1 +1,0 @@
-# WD2-L2_Cordova
