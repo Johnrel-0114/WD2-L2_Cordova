@@ -1,0 +1,48 @@
+ *{
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+}
+body{
+    background-color: lightslategrey;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-style: italic;
+    margin: auto;
+    height: 100vh;
+    font-size: 30px;
+    background-image: url(../src/Anime2.png);
+}
+.login-form{
+     background-color:aqua;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: black 10px 10px 15px 10px;
+    display:inline-flex;
+    text-align: center;
+    background-image: none;
+    background-image: url(../src/Anime1.png);
+}
+.header{
+    background-color:black;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    box-shadow:white 10px 15px 10px;
+}
+footer{
+    background-color: black;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    box-shadow: grey 10px 10px 10px 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
